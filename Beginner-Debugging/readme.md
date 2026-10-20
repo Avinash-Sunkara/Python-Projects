@@ -9,4 +9,4 @@
 ## Exercises
 - [Debugging Odd or Even](https://github.com/Avinash-Sunkara/Python-Projects/tree/main/Beginner-Debugging/Debugging%20Odd%20or%20Even)
 - [Debugging Leap Year](https://github.com/Avinash-Sunkara/Python-Projects/tree/main/Beginner-Debugging/Debugging%20Leap%20year)
-- [Debugging FizzBuzz](https://github.com/)
+- [Debugging FizzBuzz](https://github.com/Avinash-Sunkara/Python-Projects/tree/main/Beginner-Debugging/Debugging%20Fizzbuzz)
