@@ -7,6 +7,6 @@
 - Squashing bugs with a print() Statement
 - Using a Debugger
 ## Exercises
-- [Debugging Odd or Even](https://github.com)
+- [Debugging Odd or Even]([https://github.com](https://github.com/Avinash-Sunkara/Python-Projects/tree/main/Beginner-Debugging/Debugging%20Odd%20or%20Even))
 - [Debugging Leap Year](https://github.com/)
 - [Debugging FizzBuzz](https://github.com/)
